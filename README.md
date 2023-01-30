@@ -38,9 +38,7 @@ The purpose of this data analysis was to extract data from a .cvs file to:
   3) Calculate the total number of votes each candidate received
   4) Calculate the percentage of votes each candidate won
   5) Determine the winner of the election based on popular vote
-  6) Get a complete list of counties that voted
-  7) Calculate total vote count for each county and percentage of total votes in each county
-  8) Determine the county with the largest voter turnout
+  6) Determine the county with the largest voter turnout
  
 ## Results
 The analysis of the election show that:
